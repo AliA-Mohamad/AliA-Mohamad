@@ -17,3 +17,12 @@
 <code><img height="25" src="https://github.com/AliA-Mohamad/AliA-Mohamad/blob/main/img/google_firebase-2-512.webp"></code>
 <code><img height="25" src="https://github.com/AliA-Mohamad/AliA-Mohamad/blob/main/img/php.png"></code>
 </p>
+
+<h2 align="center">- Dados -</h1>
+
+<p align="center">
+    <a href="https://github.com/AliA-Mohamad">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliA-Mohamad&layout=donut&theme=dark" alt="Top Langs">
+        <img src="https://github-readme-stats.vercel.app/api?username=AliA-Mohamad&theme=dark" alt="GitHub stats">
+    </a>
+</p>
