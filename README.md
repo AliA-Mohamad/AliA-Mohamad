@@ -2,7 +2,6 @@
 <h1 align="center">- Sobre mim -</h1>
 
 - Sou um desenvolvedor full stack.
-- Tenho 2 anos de experiência.
 - Estou cursando ciência da computação.
 - Adoro aprender novas tecnologias.
 
