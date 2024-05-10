@@ -1,7 +1,7 @@
 
 <h1 align="center">- Sobre mim -</h1>
 
-> <span style="color:blue">GitHub</span>.
+<span style="color:blue">GitHub</span>.
 
 - Sou um desenvolvedor full stack.
 - Estou cursando ciência da computação.
