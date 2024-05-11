@@ -6,6 +6,7 @@
 - Sou um desenvolvedor full stack.
 - Estou cursando ciência da computação.
 - Adoro aprender novas tecnologias.
+- "#7DaysOfCode."
 
 <h2 align="center">- Principais tecnologias que eu uso -</h1>
 <p align="center">
